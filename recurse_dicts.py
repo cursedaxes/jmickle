@@ -1,6 +1,6 @@
 """
 @author: Jonathan Mickle
-@summary: Traverses a through multi level dictionaries to diff them and return the changes
+@summary: Traverses a through multi level dictionaries to diff them and return the changes -- Thanks to Yi Fan for correcting logic
 @param original: takes in the original unmodified JSON
 @param modified: Takes in the modified json file for comparison
 @return: a json dictionary of changes key-> value 
